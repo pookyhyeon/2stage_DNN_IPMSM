@@ -1,0 +1,7 @@
+torch
+pygad
+scikit-learn
+matplotlib
+pandas
+numpy
+joblib
